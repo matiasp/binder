@@ -2,3 +2,5 @@ jupyterlab
 xlrd
 openpyxl
 pandas
+matplotlib
+xlwt
